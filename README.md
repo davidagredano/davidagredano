@@ -5,34 +5,34 @@ Welcome to my GitHub profile! Here you'll find a selection of my projects, rangi
 
 ## 🌐 Web Development Projects
 
-**[RESTAURANT PAGE](https://github.com/davidagredano/restaurant-page)**  
-A dynamic restaurant website built with JavaScript, showcasing a modular, component-based architecture and DOM manipulation techniques.
+**[Restaurant Page](https://github.com/davidagredano/restaurant-page)**  
+_A dynamic restaurant website built with JavaScript, showcasing a modular, component-based architecture and DOM manipulation techniques._
 
-**[TIC-TAC-TOE](https://github.com/davidagredano/tic-tac-toe)**  
-A Tic-tac-toe game created in Vanilla JavaScript using Factory functions and the Module pattern to apply single responsibility and separation of concerns principles.
+**[Tic-Tac-Toe](https://github.com/davidagredano/tic-tac-toe)**  
+_A Tic-tac-toe game created in Vanilla JavaScript using Factory functions and the Module pattern to apply single responsibility and separation of concerns principles._
 
-**[WEV DEV PORTFOLIO](https://github.com/davidagredano/portfolio)**  
-My personal portfolio of web development projects.
+**[Web Dev Portfolio](https://github.com/davidagredano/portfolio)**  
+_My personal portfolio of web development projects._
 
-**[EASYBANK LANDING PAGE](https://github.com/davidagredano/easybank-landing-page)**  
-A responsive landing page layout for a fintech app.
+**[Easybank Landing Page](https://github.com/davidagredano/easybank-landing-page)**  
+_A responsive landing page layout for a fintech app._
 
-**[TROMBONES LANDING PAGE](https://github.com/davidagredano/trombones-landing-page)**  
-A landing page crafted using Pug and Sass, HTML and CSS preprocessors.
+**[Trombones Landing Page](https://github.com/davidagredano/trombones-landing-page)**  
+_A landing page crafted using Pug and Sass, HTML and CSS preprocessors._
 
-**[JAVASCRIPT DOCUMENTATION PAGE](https://github.com/davidagredano/javascript-documentation-page)**  
-A simple documentation page build in HTML, CSS and JS.
+**[JavaScript Documentation Page](https://github.com/davidagredano/javascript-documentation-page)**  
+_A simple documentation page build in HTML, CSS and JS._
 
 ## 🖥️ Software Development Projects
 
-**[PUSH SWAP](https://github.com/davidagredano/push_swap)**  
-An optimized C sorting algorithm that sorts a stack with minimal moves using a limited set of operations.
+**[Push_swap](https://github.com/davidagredano/push_swap)**  
+_An optimized C sorting algorithm that sorts a stack with minimal moves using a limited set of operations._
 
-**[PRINTF](https://github.com/davidagredano/printf)**  
-A custom implementation of the `printf()` function in C.
+**[Printf](https://github.com/davidagredano/printf)**  
+_A custom implementation of the `printf()` function in C._
 
-**[LIBFT](https://github.com/davidagredano/libft)**  
-A custom C library that reimplements essential standard functions from scratch to use in future projects.
+**[Libft](https://github.com/davidagredano/libft)**  
+_A custom C library that reimplements essential standard functions from scratch to use in future projects._
 
 ## 📫 Let's Connect!
 
