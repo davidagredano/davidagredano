@@ -1,6 +1,6 @@
 # 👋 Hi, I'm David Agredano
 
-Welcome to my GitHub profile! Here you'll find a selection of my projects, ranging from web development to low-level C programming. ⚡
+Welcome to my GitHub profile! Here you'll find a selection of my projects, ranging from web development to low-level C programming.
 
 
 ## 🌐 Web Development Projects
@@ -25,7 +25,7 @@ A simple documentation page build in HTML, CSS and JS.
 
 ## 🖥️ Software Development Projects
 
-**[Push_swap](https://github.com/davidagredano/push_swap)**  
+**[Push-Swap](https://github.com/davidagredano/push_swap)**  
 An optimized C sorting algorithm that sorts a stack with minimal moves using a limited set of operations.
 
 **[Printf](https://github.com/davidagredano/printf)**  
