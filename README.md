@@ -6,33 +6,33 @@ Welcome to my GitHub profile! Here you'll find a selection of my projects, rangi
 ## 🌐 Web Development Projects
 
 **[Restaurant Page](https://github.com/davidagredano/restaurant-page)**  
-_A dynamic restaurant website built with JavaScript, showcasing a modular, component-based architecture and DOM manipulation techniques._
+> A dynamic restaurant website built with JavaScript, showcasing a modular, component-based architecture and DOM manipulation techniques.
 
 **[Tic-Tac-Toe](https://github.com/davidagredano/tic-tac-toe)**  
-_A Tic-tac-toe game created in Vanilla JavaScript using Factory functions and the Module pattern to apply single responsibility and separation of concerns principles._
+> A Tic-tac-toe game created in Vanilla JavaScript using Factory functions and the Module pattern to apply single responsibility and separation of concerns principles.
 
 **[Web Dev Portfolio](https://github.com/davidagredano/portfolio)**  
-_My personal portfolio of web development projects._
+> My personal portfolio of web development projects.
 
 **[Easybank Landing Page](https://github.com/davidagredano/easybank-landing-page)**  
-_A responsive landing page layout for a fintech app._
+> A responsive landing page layout for a fintech app.
 
 **[Trombones Landing Page](https://github.com/davidagredano/trombones-landing-page)**  
-_A landing page crafted using Pug and Sass, HTML and CSS preprocessors._
+> A landing page crafted using Pug and Sass, HTML and CSS preprocessors.
 
 **[JavaScript Documentation Page](https://github.com/davidagredano/javascript-documentation-page)**  
-_A simple documentation page build in HTML, CSS and JS._
+> A simple documentation page build in HTML, CSS and JS.
 
 ## 🖥️ Software Development Projects
 
 **[Push_swap](https://github.com/davidagredano/push_swap)**  
-_An optimized C sorting algorithm that sorts a stack with minimal moves using a limited set of operations._
+> An optimized C sorting algorithm that sorts a stack with minimal moves using a limited set of operations.
 
 **[Printf](https://github.com/davidagredano/printf)**  
-_A custom implementation of the `printf()` function in C._
+> A custom implementation of the `printf()` function in C.
 
 **[Libft](https://github.com/davidagredano/libft)**  
-_A custom C library that reimplements essential standard functions from scratch to use in future projects._
+> A custom C library that reimplements essential standard functions from scratch to use in future projects.
 
 ## 📫 Let's Connect!
 
