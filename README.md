@@ -1,6 +1,6 @@
 # 👋 Hi, I'm David Agredano
 
-Welcome to my GitHub profile! Here you'll find a selection of my projects, ranging from web development to low-level C programming.
+Welcome to my GitHub profile! Here you'll find a selection of my projects, ranging from web development to low-level C programming. ⚡
 
 
 ## 🌐 Web Development Projects
